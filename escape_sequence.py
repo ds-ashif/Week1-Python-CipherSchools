@@ -1,0 +1,7 @@
+print("hello \"this\" world")
+print('I\'m Ashif')
+print("lineA \nlineB \nlineC")
+print("this is backslash\\")
+print("this is double backslash\\\\")
+print("Go \tahead") 
+print("hell\blo")

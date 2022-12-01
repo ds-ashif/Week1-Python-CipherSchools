@@ -1,0 +1,5 @@
+print("aashifahamad"[0:5:2])
+print("aashifahamad"[0::2])
+print("aashifahamad"[-1::-2])
+print("aashifahamad"[-1::-1])
+print("aashifahamad"[::-1])
